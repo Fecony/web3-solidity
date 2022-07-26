@@ -9,6 +9,7 @@ Simple Solidity app built with [buildspace](https://buildspace.so/p/build-solidi
 - Hardhat
 - Solidity
 - Rinkeby testnet
+- [Alchemy](https://www.alchemy.com/)
 
 # Basic Sample Hardhat Project
 
